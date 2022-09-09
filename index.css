@@ -1,0 +1,19 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+.persona:hover{
+    cursor: all-scroll;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+tbody{
+    height: 200px;
+}
+td{
+    min-height: 50px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
